@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-z&6s9tbn0-z+a!d@sd^jo%6b5e7rwgn+=j9jytvxg!!-*e8g-0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['repensapesca.com']
 
 
 # Application definition
