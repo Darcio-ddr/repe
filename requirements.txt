@@ -1,0 +1,5 @@
+Django
+pylint
+django-crispy-forms
+psycopg2-binary
+pandas
